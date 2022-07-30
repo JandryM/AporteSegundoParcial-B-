@@ -1,0 +1,15 @@
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.csproj.AssemblyReference.cache
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.AssemblyInfoInputs.cache
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.AssemblyInfo.cs
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.csproj.CoreCompileInputs.cache
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Aportee.exe
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Aportee.deps.json
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Aportee.runtimeconfig.json
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Aportee.dll
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Aportee.pdb
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.dll
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Aportee.dll
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.pdb
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Aportee.genruntimeconfig.cache
+C:\Users\emily\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Aportee.dll
